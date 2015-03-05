@@ -1,0 +1,9 @@
+E:\c#\oop\1lab\InheritancePolymorphismInFigures\InheritancePolymorphismInFigures\bin\Debug\InheritancePolymorphismInFigures.exe.config
+E:\c#\oop\1lab\InheritancePolymorphismInFigures\InheritancePolymorphismInFigures\bin\Debug\InheritancePolymorphismInFigures.exe
+E:\c#\oop\1lab\InheritancePolymorphismInFigures\InheritancePolymorphismInFigures\bin\Debug\InheritancePolymorphismInFigures.pdb
+E:\c#\oop\1lab\InheritancePolymorphismInFigures\InheritancePolymorphismInFigures\obj\Debug\InheritancePolymorphismInFigures.csprojResolveAssemblyReference.cache
+E:\c#\oop\1lab\InheritancePolymorphismInFigures\InheritancePolymorphismInFigures\obj\Debug\InheritancePolymorphismInFigures.FormFigures.resources
+E:\c#\oop\1lab\InheritancePolymorphismInFigures\InheritancePolymorphismInFigures\obj\Debug\InheritancePolymorphismInFigures.Properties.Resources.resources
+E:\c#\oop\1lab\InheritancePolymorphismInFigures\InheritancePolymorphismInFigures\obj\Debug\InheritancePolymorphismInFigures.csproj.GenerateResource.Cache
+E:\c#\oop\1lab\InheritancePolymorphismInFigures\InheritancePolymorphismInFigures\obj\Debug\InheritancePolymorphismInFigures.exe
+E:\c#\oop\1lab\InheritancePolymorphismInFigures\InheritancePolymorphismInFigures\obj\Debug\InheritancePolymorphismInFigures.pdb
